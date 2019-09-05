@@ -1,0 +1,10 @@
+com\java\Model\AutoNumber.class
+com\java\service\NextService.class
+com\java\service\RandomService.class
+com\java\controller\RandomController.class
+com\java\DemoApplication.class
+com\java\Application.class
+com\java\controller\MainController.class
+com\java\Enum\EnumAbs.class
+com\java\service\RandomServiceImpl.class
+com\java\service\NextServiceImpl.class
